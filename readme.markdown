@@ -26,6 +26,7 @@ block | topic | day | time
 
 There is a notebook and slide deck for each section.
 The slides are available in zip archives containing Keynote and Powerpoint versions in the [releases](https://github.com/jtkiley/2019_rsm_workshop/releases) section.
+Please note that the Keynote slides are the ones actually presented.
 
 Also, there is an `environment.yml` file for setting up your Anaconda environment, using the instructions below.
 
