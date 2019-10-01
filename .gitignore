@@ -1,0 +1,6 @@
+# Output files
+*.pdf
+data/msft_pr_coding.csv
+
+# Python stuff
+.ipynb_checkpoints/
